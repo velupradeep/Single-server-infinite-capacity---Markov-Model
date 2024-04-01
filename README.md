@@ -1,5 +1,5 @@
-                                                                Name:Pradeep V
-                                                                Reg N0:212223240119
+                                                       Name:Pradeep V
+                                                       Reg N0:212223240119
 
 # EX-4:Single server with infinite capacity (M/M/1):(oo/FIFO)
 ## Aim :
